@@ -1,9 +1,9 @@
 # EgoLLC
 Privacy Policy
-Our Privacy Policy explains:
-● What information we collect and why we collect it.
-● How we use that information.
-● Information that we collect
+Our Privacy Policy explains:<br>
+● What information we collect and why we collect it.<br>
+● How we use that information.<br>
+● Information that we collect<br>
 
 We collect information to provide better services to all of our users. Information that we get
 about you from other services Such as Google Analytics, Firebase, Google Play, Yandex,
@@ -37,12 +37,12 @@ not collected by me in any way. The app does use third party services that may c
 information used to identify you. Link to privacy policy of third party service providers used
 by the app
 
-COLLECTION OF OTHER ‘NON-PERSONAL’ INFORMATION
-● AdColony: http://www.adcolony.com/privacy-policy/
-● AdMob: https://www.google.com/intl/en/policies/privacy/
-● Google: http://www.google.com/policies/privacy/
-● Yandex: https://yandex.ru/legal/confidential/?lang=en 
-● AppMetrica: https://yandex.ru/legal/metrica_termsofuse/
+COLLECTION OF OTHER ‘NON-PERSONAL’ INFORMATION<br>
+● AdColony:<a href="http://www.adcolony.com/privacy-policy/">http://www.adcolony.com/privacy-policy/</a> <br>
+● AdMob:<a href="https://www.google.com/intl/en/policies/privacy/"> https://www.google.com/intl/en/policies/privacy/</a> <br>
+● Google:<a href="http://www.google.com/policies/privacy/"> http://www.google.com/policies/privacy/</a><br>
+● Yandex:<a href="https://yandex.ru/legal/confidential/?lang=en"> https://yandex.ru/legal/confidential/?lang=en </a><br>
+● AppMetrica:<a href="https://yandex.ru/legal/metrica_termsofuse/"> https://yandex.ru/legal/metrica_termsofuse/</a><br>
 
 If you would like to find out more about the way these third parties collect and process your
 information please refer to their respective privacy policies and/or terms and conditions by
