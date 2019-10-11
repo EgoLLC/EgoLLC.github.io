@@ -1,5 +1,5 @@
 # EgoLLC
-Privacy Policy
+
 Our Privacy Policy explains:<br>
 ● What information we collect and why we collect it.<br>
 ● How we use that information.<br>
