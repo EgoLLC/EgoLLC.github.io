@@ -1,0 +1,40 @@
+* {
+	margin: 1;
+	padding: 0;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+	display: block;
+}
+body {
+	font: 24px/36px Arial, sans-serif;
+}
+.wrapper {
+	width: 100%;
+	min-width: 1000px;
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+	height: 100px;
+	background: #DCDCDC;
+}
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+.content {
+	margin: 10;
+	padding: 10;
+}
+
+
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {
+	height: 50px;
+	background: #696969;
+}
