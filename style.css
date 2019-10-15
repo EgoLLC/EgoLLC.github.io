@@ -37,5 +37,5 @@ body {
 .footer {
 	height: 50px;
 	background: #696969;
-	color: #FFFFFF; /* Цвет текста */
+	font-color: #FFFFFF; /* Цвет текста */
 }
