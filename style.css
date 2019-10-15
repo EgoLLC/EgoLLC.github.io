@@ -37,4 +37,9 @@ body {
 .footer {
 	height: 50px;
 	background: #696969;
+	color: #000;
+}
+
+.footertext {
+	color: #000;
 }
