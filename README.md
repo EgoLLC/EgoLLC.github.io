@@ -87,5 +87,5 @@ connected sites. For example, we may share information publicly to show trends a
 general use of our apps. Our Privacy Policy may change from time to time. We will not
 reduce your rights under this Privacy Policy without your explicit consent. We will post any
 Privacy Policy changes on this page. If you have any questions - you can ask them by email
-<a href="mailto:luk9ln@gmail.ru">luk9ln@gmail.ru.</a>
+<a href="mailto:luk9ln@gmail.com">luk9ln@gmail.com.</a>
 
