@@ -12,7 +12,7 @@
 </fluffy_slime_100>
 <fluffy_slime_100>
 <name>Fertilization</name>
-<icon>https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png</icon>
+<icon>https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_eyegum.png</icon>
 <package>emy.ego.fertilization</package>
 </fluffy_slime_100>
 </slime>
@@ -29,7 +29,7 @@
 </boxmaker>
 <boxmaker>
 <name>Fertilization</name>
-<icon>http://www.icon3.ru</icon>
+<icon>https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png</icon>
 <package>emy.ego.fertilization</package>
 </boxmaker>
 </box>
