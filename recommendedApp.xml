@@ -3,3 +3,8 @@
 <icon>https://lh3.googleusercontent.com/0ZW5Jk31CJzF09WiuYGx7qdxr82EDMypiaJ84lCmzlRnSKV4bpB8xeOGCR8Bwx0bbQc=s360-rw</icon>
 <package>emy.ego.fluffy_slime_100</package>
 </app>
+<app>
+<name>boxMaker</name>
+<icon>https://lh3.com</icon>
+<package>emy.ego.boxmaker</package>
+</app>
