@@ -1,0 +1,36 @@
+{ 
+  "fluffy_slime_100" : [ 
+    {
+      "name" : "Vibrator",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
+      "package" : "ego.emy.vibrator"
+    },
+    {
+      "name" : "BoxMaker",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
+      "package" : "ego.emy.boxmaker"
+    },
+    {
+      "name" : "Fertilization",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
+      "package" : "emy.ego.fertilization"
+    }
+  ],
+  "box_maker" : [ 
+    {
+      "name" : "Vibrator",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
+      "package" : "ego.emy.vibrator"
+    },
+    {
+      "name" : "Fluffy Slime 100",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
+      "package" : "emy.ego.fluffy_slime_100"
+    },
+    {
+      "name" : "Fertilization",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
+      "package" : "emy.ego.fertilization"
+    }
+  ]
+}
