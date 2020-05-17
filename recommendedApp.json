@@ -13,7 +13,7 @@
     {
       "name" : "Fert",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_eyegum.png",
-      "package" : "emy.ego.eyegym"
+      "package" : "ego.emy.eyegym"
     }
   ],
   "ego.emy.boxmaker" : [ 
@@ -25,12 +25,12 @@
     {
       "name" : "Fluffy Slime 100",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "emy.ego.fluffy_slime_100"
+      "package" : "ego.emy.fluffy_slime_100"
     },
     {
       "name" : "Fertilization",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
-      "package" : "emy.ego.fertilization"
+      "package" : "ego.emy.fertilization"
     }
   ]
 }
