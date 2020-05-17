@@ -11,9 +11,9 @@
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Fertilization",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
-      "package" : "emy.ego.fertilization"
+      "name" : "Fert",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_eyegum.png",
+      "package" : "emy.ego.eyegym"
     }
   ],
   "ego.emy.boxmaker" : [ 
