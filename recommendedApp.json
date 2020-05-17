@@ -1,5 +1,5 @@
 { 
-  "fluffy_slime_100" : [ 
+  "emy.ego.fluffy_slime_100" : [ 
     {
       "name" : "Vibrator",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
@@ -16,7 +16,7 @@
       "package" : "emy.ego.fertilization"
     }
   ],
-  "box_maker" : [ 
+  "ego.emy.boxmaker" : [ 
     {
       "name" : "Vibrator",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
