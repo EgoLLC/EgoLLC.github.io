@@ -11,9 +11,9 @@
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Fert",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_eyegum.png",
-      "package" : "ego.emy.eyegym"
+      "name" : "Fertilization",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
+      "package" : "ego.emy.fertilization"
     }
   ],
   "ego.emy.boxmaker" : [ 
@@ -25,7 +25,7 @@
     {
       "name" : "Fluffy Slime 100",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "ego.emy.fluffy_slime_100"
+      "package" : "emy.ego.fluffy_slime_100"
     },
     {
       "name" : "Fertilization",
