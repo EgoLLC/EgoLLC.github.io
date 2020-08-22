@@ -29,7 +29,7 @@
     },
     {
       "name" : "Fertilization",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
       "package" : "ego.emy.fertilization"
     }
   ]
