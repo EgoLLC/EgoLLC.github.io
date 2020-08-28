@@ -6,12 +6,12 @@
       "package" : "ego.emy.vibrator"
     },
     {
-      "name" : "BoxMaker",
+      "name" : "Box Maker",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Fertilization",
+      "name" : "Puzzle",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
       "package" : "ego.emy.fertilization"
     }
@@ -24,11 +24,11 @@
     },
     {
       "name" : "Fluffy Slime 100",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
       "package" : "emy.ego.fluffy_slime_100"
     },
     {
-      "name" : "Fertilization",
+      "name" : "Puzzle",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
       "package" : "ego.emy.fertilization"
     }
@@ -45,9 +45,26 @@
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Fertilization",
+      "name" : "Puzzle",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
       "package" : "ego.emy.fertilization"
     }
-  ]
+  ],
+    "ego.emy.vibrator" : [ 
+    {
+      "name" : "Box Maker",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
+      "package" : "ego.emy.boxmaker"
+    },
+    {
+      "name" : "Fluffy Slime 100",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
+      "package" : "emy.ego.fluffy_slime_100"
+    },
+    {
+      "name" : "Puzzle",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
+      "package" : "ego.emy.fertilization"
+    }
+  ],
 }
