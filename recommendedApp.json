@@ -33,7 +33,7 @@
       "package" : "ego.emy.fertilization"
     }
   ],
-    "ego.art.coloring" : [ 
+    "appex.art.coloring" : [ 
     {
       "name" : "Vibrator",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
