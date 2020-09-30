@@ -1,9 +1,9 @@
 { 
   "emy.ego.fluffy_slime_100" : [ 
     {
-      "name" : "Vibrator",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
-      "package" : "ego.emy.vibrator"
+      "name" : "Сoloring Book",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/icon_3.png",
+      "package" : "appex.art.coloring"
     },
     {
       "name" : "Box Maker",
@@ -18,9 +18,9 @@
   ],
   "ego.emy.boxmaker" : [ 
     {
-      "name" : "Vibrator",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
-      "package" : "ego.emy.vibrator"
+      "name" : "Сoloring Book",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/icon_3.png",
+      "package" : "appex.art.coloring"
     },
     {
       "name" : "Fluffy Slime 100",
@@ -57,9 +57,9 @@
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Fluffy Slime 100",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
-      "package" : "emy.ego.fluffy_slime_100"
+      "name" : "Сoloring Book",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/icon_3.png",
+      "package" : "appex.art.coloring"
     },
     {
       "name" : "Puzzle",
