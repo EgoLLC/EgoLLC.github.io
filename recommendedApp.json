@@ -52,14 +52,14 @@
   ],
     "ego.emy.vibrator" : [ 
     {
-      "name" : "Box Maker",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "ego.emy.boxmaker"
-    },
-    {
       "name" : "Сoloring Book",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/icon_3.png",
       "package" : "appex.art.coloring"
+    },
+    {
+      "name" : "Box Maker",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
+      "package" : "ego.emy.boxmaker"
     },
     {
       "name" : "Puzzle",
