@@ -35,9 +35,9 @@
   ],
     "appex.art.coloring" : [ 
     {
-      "name" : "Vibrator",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
-      "package" : "ego.emy.vibrator"
+      "name" : "Fluffy Slime 100",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
+      "package" : "emy.ego.fluffy_slime_100"
     },
     {
       "name" : "Box Maker",
