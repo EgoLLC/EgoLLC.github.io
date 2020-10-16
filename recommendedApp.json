@@ -2,7 +2,7 @@
   "emy.ego.fluffy_slime_100" : [ 
     {
       "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/icon_3.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
       "package" : "appex.art.coloring"
     },
     {
@@ -19,7 +19,7 @@
   "ego.emy.boxmaker" : [ 
     {
       "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/icon_3.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
       "package" : "appex.art.coloring"
     },
     {
@@ -53,7 +53,7 @@
     "ego.emy.vibrator" : [ 
     {
       "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/icon_3.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
       "package" : "appex.art.coloring"
     },
     {
