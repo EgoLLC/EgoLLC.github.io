@@ -66,5 +66,22 @@
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
       "package" : "ego.emy.fertilization"
     }
+  ],
+   "appex.draw.weapon.pixel" : [ 
+    {
+      "name" : "Fluffy Slime 100",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
+      "package" : "emy.ego.fluffy_slime_100"
+    },
+    {
+      "name" : "Box Maker",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
+      "package" : "ego.emy.boxmaker"
+    },
+    {
+      "name" : "Сoloring Book",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
+      "package" : "appex.art.coloring"
+    }
   ]
 }
