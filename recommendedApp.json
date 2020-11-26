@@ -11,9 +11,9 @@
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Puzzle",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
-      "package" : "ego.emy.fertilization"
+      "name" : "Draw Pix Weapon",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "package" : "appex.draw.weapon.pixel"
     }
   ],
   "ego.emy.boxmaker" : [ 
@@ -28,9 +28,9 @@
       "package" : "emy.ego.fluffy_slime_100"
     },
     {
-      "name" : "Puzzle",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
-      "package" : "ego.emy.fertilization"
+      "name" : "Draw Pix Weapon",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "package" : "appex.draw.weapon.pixel"
     }
   ],
     "appex.art.coloring" : [ 
@@ -45,9 +45,9 @@
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Puzzle",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
-      "package" : "ego.emy.fertilization"
+      "name" : "Draw Pix Weapon",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "package" : "appex.draw.weapon.pixel"
     }
   ],
     "ego.emy.vibrator" : [ 
@@ -62,9 +62,9 @@
       "package" : "ego.emy.boxmaker"
     },
     {
-      "name" : "Puzzle",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fertilization.png",
-      "package" : "ego.emy.fertilization"
+      "name" : "Draw Pix Weapon",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "package" : "appex.draw.weapon.pixel"
     }
   ],
    "appex.draw.weapon.pixel" : [ 
