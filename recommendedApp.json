@@ -6,9 +6,9 @@
       "package" : "appex.art.coloring"
     },
     {
-      "name" : "Box Maker",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "ego.emy.boxmaker"
+      "name" : "Draw Pix Characters",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "package" : "appex.draw.characters.pixel"
     },
     {
       "name" : "Draw Pix Weapon",
@@ -23,9 +23,9 @@
       "package" : "appex.art.coloring"
     },
     {
-      "name" : "Fluffy Slime 100",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
-      "package" : "emy.ego.fluffy_slime_100"
+      "name" : "Draw Pix Characters",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "package" : "appex.draw.characters.pixel"
     },
     {
       "name" : "Draw Pix Weapon",
@@ -40,9 +40,9 @@
       "package" : "emy.ego.fluffy_slime_100"
     },
     {
-      "name" : "Box Maker",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "ego.emy.boxmaker"
+      "name" : "Draw Pix Characters",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "package" : "appex.draw.characters.pixel"
     },
     {
       "name" : "Draw Pix Weapon",
@@ -57,9 +57,9 @@
       "package" : "appex.art.coloring"
     },
     {
-      "name" : "Box Maker",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "ego.emy.boxmaker"
+      "name" : "Draw Pix Characters",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "package" : "appex.draw.characters.pixel"
     },
     {
       "name" : "Draw Pix Weapon",
@@ -91,9 +91,9 @@
       "package" : "emy.ego.fluffy_slime_100"
     },
     {
-      "name" : "Box Maker",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "ego.emy.boxmaker"
+      "name" : "Draw Pix Characters",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "package" : "appex.draw.characters.pixel"
     },
     {
       "name" : "Сoloring Book",
