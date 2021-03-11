@@ -1,9 +1,9 @@
 { 
   "emy.ego.fluffy_slime_100" : [ 
     {
-      "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
-      "package" : "appex.art.coloring"
+      "name" : "3D Tilt maze",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
+      "package" : "appex.game3d.maze"
     },
     {
       "name" : "Draw Pix Characters",
@@ -35,9 +35,9 @@
   ],
     "appex.art.coloring" : [ 
     {
-      "name" : "Fluffy Slime 100",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
-      "package" : "emy.ego.fluffy_slime_100"
+      "name" : "3D Tilt maze",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
+      "package" : "appex.game3d.maze"
     },
     {
       "name" : "Draw Pix Characters",
@@ -52,9 +52,9 @@
   ],
     "ego.emy.vibrator" : [ 
     {
-      "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
-      "package" : "appex.art.coloring"
+      "name" : "3D Tilt maze",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
+      "package" : "appex.game3d.maze"
     },
     {
       "name" : "Draw Pix Characters",
@@ -74,9 +74,9 @@
       "package" : "appex.art.coloring"
     },
     {
-      "name" : "Box Maker",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_boxmaker.png",
-      "package" : "ego.emy.boxmaker"
+      "name" : "appex.game3d.maze",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
+      "package" : "appex.game3d.maze"
     },
     {
       "name" : "Draw Pix Weapon",
@@ -86,9 +86,9 @@
   ],
    "appex.draw.weapon.pixel" : [ 
     {
-      "name" : "Fluffy Slime 100",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_fluffy_slime.png",
-      "package" : "emy.ego.fluffy_slime_100"
+      "name" : "3D Tilt maze",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
+      "package" : "appex.game3d.maze"
     },
     {
       "name" : "Draw Pix Characters",
