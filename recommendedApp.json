@@ -74,7 +74,7 @@
       "package" : "appex.art.coloring"
     },
     {
-      "name" : "appex.game3d.maze",
+      "name" : "3D Tilt maze",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
       "package" : "appex.game3d.maze"
     },
