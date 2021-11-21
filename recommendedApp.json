@@ -69,7 +69,7 @@
   ],
     "appex.draw.characters.pixel" : [ 
     {
-      "name" : "Drawing for Kids",
+      "name" : "Drawing",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
