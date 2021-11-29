@@ -1,9 +1,9 @@
 { 
   "emy.ego.fluffy_slime_100" : [ 
     {
-      "name" : "3D Tilt maze",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
-      "package" : "appex.game3d.maze"
+      "name" : "Drawing",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
+      "package" : "tk.appex.draftsman"
     },
     {
       "name" : "Draw Pix Characters",
@@ -18,9 +18,9 @@
   ],
   "ego.emy.boxmaker" : [ 
     {
-      "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
-      "package" : "appex.art.coloring"
+      "name" : "Drawing",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
+      "package" : "tk.appex.draftsman"
     },
     {
       "name" : "Draw Pix Characters",
@@ -35,9 +35,9 @@
   ],
     "appex.art.coloring" : [ 
     {
-      "name" : "3D Tilt maze",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
-      "package" : "appex.game3d.maze"
+      "name" : "Drawing",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
+      "package" : "tk.appex.draftsman"
     },
     {
       "name" : "Draw Pix Characters",
@@ -52,9 +52,9 @@
   ],
     "ego.emy.vibrator" : [ 
     {
-      "name" : "3D Tilt maze",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_maze.png",
-      "package" : "appex.game3d.maze"
+      "name" : "Drawing",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
+      "package" : "tk.appex.draftsman"
     },
     {
       "name" : "Draw Pix Characters",
