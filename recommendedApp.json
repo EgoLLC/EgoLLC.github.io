@@ -6,7 +6,7 @@
       "package" : "tk.appex.draftsman"
     },
     {
-      "name" : "Draw Pix Characters",
+      "name" : "Draw Pix Chars",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
       "package" : "appex.draw.characters.pixel"
     },
@@ -23,7 +23,7 @@
       "package" : "tk.appex.draftsman"
     },
     {
-      "name" : "Draw Pix Characters",
+      "name" : "Draw Pix Chars",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
       "package" : "appex.draw.characters.pixel"
     },
@@ -40,7 +40,7 @@
       "package" : "tk.appex.draftsman"
     },
     {
-      "name" : "Draw Pix Characters",
+      "name" : "Draw Pix Chars",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
       "package" : "appex.draw.characters.pixel"
     },
@@ -91,7 +91,7 @@
       "package" : "tk.appex.draftsman"
     },
     {
-      "name" : "Draw Pix Characters",
+      "name" : "Draw Pix Chars",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
       "package" : "appex.draw.characters.pixel"
     },
@@ -103,9 +103,9 @@
   ],
   "tk.artapp.draw.cute.pixel" : [ 
     {
-      "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
-      "package" : "appex.art.coloring"
+      "name" : "Draw Pix Chars",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "package" : "appex.draw.characters.pixel"
     },
     {
       "name" : "Drawing",
