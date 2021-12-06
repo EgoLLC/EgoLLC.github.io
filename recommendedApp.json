@@ -100,5 +100,22 @@
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
       "package" : "appex.art.coloring"
     }
+  ],
+  "tk.artapp.draw.cute.pixel" : [ 
+    {
+      "name" : "Сoloring Book",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
+      "package" : "appex.art.coloring"
+    },
+    {
+      "name" : "Drawing",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
+      "package" : "tk.appex.draftsman"
+    },
+    {
+      "name" : "Draw Pix Weapon",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "package" : "appex.draw.weapon.pixel"
+    }
   ]
 }
