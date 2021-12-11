@@ -1,7 +1,7 @@
 { 
   "emy.ego.fluffy_slime_100" : [ 
     {
-      "name" : "Drawing",
+      "name" : "Drawing Game",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
@@ -18,7 +18,7 @@
   ],
   "ego.emy.boxmaker" : [ 
     {
-      "name" : "Drawing",
+      "name" : "Drawing Game",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
@@ -35,7 +35,7 @@
   ],
     "appex.art.coloring" : [ 
     {
-      "name" : "Drawing",
+      "name" : "Drawing Game",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
@@ -52,7 +52,7 @@
   ],
     "ego.emy.vibrator" : [ 
     {
-      "name" : "Drawing",
+      "name" : "Drawing Game",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
@@ -74,7 +74,7 @@
       "package" : "appex.art.coloring"
     },
     {
-      "name" : "Drawing",
+      "name" : "Drawing Game",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
@@ -86,7 +86,7 @@
   ],
    "appex.draw.weapon.pixel" : [ 
     {
-      "name" : "Drawing",
+      "name" : "Drawing Game",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
@@ -108,7 +108,7 @@
       "package" : "appex.draw.characters.pixel"
     },
     {
-      "name" : "Drawing",
+      "name" : "Drawing Game",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
       "package" : "tk.appex.draftsman"
     },
