@@ -11,9 +11,9 @@
       "package" : "appex.draw.characters.pixel"
     },
     {
-      "name" : "Draw Pix Weapon",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
-      "package" : "appex.draw.weapon.pixel"
+      "name" : "Pix Kawaii",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
+      "package" : "tk.artapp.draw.cute.pixel"
     }
   ],
   "ego.emy.boxmaker" : [ 
@@ -28,9 +28,9 @@
       "package" : "appex.draw.characters.pixel"
     },
     {
-      "name" : "Draw Pix Weapon",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
-      "package" : "appex.draw.weapon.pixel"
+      "name" : "Pix Kawaii",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
+      "package" : "tk.artapp.draw.cute.pixel"
     }
   ],
     "appex.art.coloring" : [ 
@@ -45,9 +45,9 @@
       "package" : "appex.draw.characters.pixel"
     },
     {
-      "name" : "Draw Pix Weapon",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
-      "package" : "appex.draw.weapon.pixel"
+      "name" : "Pix Kawaii",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
+      "package" : "tk.artapp.draw.cute.pixel"
     }
   ],
     "ego.emy.vibrator" : [ 
@@ -57,21 +57,21 @@
       "package" : "tk.appex.draftsman"
     },
     {
-      "name" : "Draw Pix Characters",
+      "name" : "Draw Pix Chars",
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
       "package" : "appex.draw.characters.pixel"
     },
     {
-      "name" : "Draw Pix Weapon",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
-      "package" : "appex.draw.weapon.pixel"
+      "name" : "Pix Kawaii",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
+      "package" : "tk.artapp.draw.cute.pixel"
     }
   ],
     "appex.draw.characters.pixel" : [ 
     {
-      "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
-      "package" : "appex.art.coloring"
+      "name" : "Pix Kawaii",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
+      "package" : "tk.artapp.draw.cute.pixel"
     },
     {
       "name" : "Drawing Game",
@@ -96,9 +96,9 @@
       "package" : "appex.draw.characters.pixel"
     },
     {
-      "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
-      "package" : "appex.art.coloring"
+      "name" : "Pix Kawaii",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
+      "package" : "tk.artapp.draw.cute.pixel"
     }
   ],
   "tk.artapp.draw.cute.pixel" : [ 
