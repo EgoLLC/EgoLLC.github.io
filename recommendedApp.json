@@ -122,5 +122,22 @@
       "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
       "package" : "appex.art.coloring"
     }
+  ],
+    "tk.appex.draftsman" : [ 
+    {
+      "name" : "Draw Pix Chars",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "package" : "appex.draw.characters.pixel"
+    },
+    {
+      "name" : "Draw Pix Weapon",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "package" : "appex.draw.weapon.pixel"
+    },
+    {
+      "name" : "Pixel kawaii",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
+      "package" : "tk.artapp.draw.cute.pixel"
+    }
   ]
 }
