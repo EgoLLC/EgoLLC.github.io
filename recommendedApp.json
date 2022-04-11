@@ -123,6 +123,13 @@
       "package" : "appex.art.coloring"
     }
   ],
+    "ego.emy.eyegym" : [ 
+    {
+      "name" : "Massager",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_vibrator.png",
+      "package" : "ego.emy.vibrator"
+    }
+  ],
     "tk.appex.draftsman" : [ 
     {
       "name" : "Draw Pix Chars",
