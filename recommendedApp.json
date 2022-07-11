@@ -1,9 +1,9 @@
 { 
   "emy.ego.fluffy_slime_100" : [ 
     {
-      "name" : "Drawing Game",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
-      "package" : "tk.appex.draftsman"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
@@ -18,9 +18,9 @@
   ],
   "ego.emy.boxmaker" : [ 
     {
-      "name" : "Drawing Game",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
-      "package" : "tk.appex.draftsman"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
@@ -35,9 +35,9 @@
   ],
     "appex.art.coloring" : [ 
     {
-      "name" : "Drawing Game",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
-      "package" : "tk.appex.draftsman"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
@@ -62,9 +62,9 @@
       "package" : "ego.emy.eyegym"
     },
     {
-      "name" : "Pix Kawaii",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_kawaii.png",
-      "package" : "tk.artapp.draw.cute.pixel"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     }
   ],
     "appex.draw.characters.pixel" : [ 
@@ -74,9 +74,9 @@
       "package" : "tk.artapp.draw.cute.pixel"
     },
     {
-      "name" : "Drawing Game",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
-      "package" : "tk.appex.draftsman"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Weapon",
@@ -86,9 +86,9 @@
   ],
    "appex.draw.weapon.pixel" : [ 
     {
-      "name" : "Drawing Game",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_draftsman.png",
-      "package" : "tk.appex.draftsman"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
@@ -118,9 +118,9 @@
       "package" : "appex.draw.weapon.pixel"
     },
     {
-      "name" : "Сoloring Book",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_coloring.png",
-      "package" : "appex.art.coloring"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     }
   ],
     "ego.emy.eyegym" : [ 
@@ -137,9 +137,9 @@
       "package" : "appex.draw.characters.pixel"
     },
     {
-      "name" : "Draw Pix Weapon",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
-      "package" : "appex.draw.weapon.pixel"
+      "name" : "Candy",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Pixel kawaii",
