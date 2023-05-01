@@ -80,7 +80,7 @@
     },
     {
       "name" : "Draw Pix Weapon",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_weapon.png",
       "package" : "appex.draw.weapon.pixel"
     }
   ],
@@ -114,7 +114,7 @@
     },
     {
       "name" : "Draw Pix Weapon",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/pix_weapon.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_weapon.png",
       "package" : "appex.draw.weapon.pixel"
     },
     {
