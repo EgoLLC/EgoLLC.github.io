@@ -2,12 +2,12 @@
   "emy.ego.fluffy_slime_100" : [ 
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_characters.png",
       "package" : "appex.draw.characters.pixel"
     },
     {
@@ -19,12 +19,12 @@
   "ego.emy.boxmaker" : [ 
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_characters.png",
       "package" : "appex.draw.characters.pixel"
     },
     {
@@ -36,12 +36,12 @@
     "appex.art.coloring" : [ 
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_characters.png",
       "package" : "appex.draw.characters.pixel"
     },
     {
@@ -58,12 +58,12 @@
     },
     {
       "name" : "Eye Gym",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_eyegum.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_eyegum.png",
       "package" : "ego.emy.eyegym"
     },
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     }
   ],
@@ -75,7 +75,7 @@
     },
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     },
     {
@@ -87,12 +87,12 @@
    "appex.draw.weapon.pixel" : [ 
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     },
     {
       "name" : "Draw Pix Chars",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_characters.png",
       "package" : "appex.draw.characters.pixel"
     },
     {
@@ -104,7 +104,7 @@
   "tk.artapp.draw.cute.pixel" : [ 
     {
       "name" : "Draw Pix Chars",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_characters.png",
       "package" : "appex.draw.characters.pixel"
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     }
   ],
@@ -133,12 +133,12 @@
     "tk.appex.draftsman" : [ 
     {
       "name" : "Draw Pix Chars",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_char.png",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_pix_characters.png",
       "package" : "appex.draw.characters.pixel"
     },
     {
       "name" : "Candy",
-      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.webp",
+      "icon" : "https://raw.githubusercontent.com/EgoLLC/EgoLLC.github.io/master/ic_candy.png",
       "package" : "tk.appex.coloring3d"
     },
     {
